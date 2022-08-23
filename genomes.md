@@ -14,7 +14,7 @@ Most are available in NCBI genbank, but we have also setup a number of online ge
 
 [ _P. tritici-repentis_ ](https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/45151/) is a necrotrophic pathogen of wheat.
 
-- M4 WebApollo (not yet public), Genbank: [GCA_003171515.3](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_003171515.3/)
+- M4 WebApollo (more to come), Genbank: [GCA_003171515.3](https://www.ncbi.nlm.nih.gov/data-hub/genome/GCA_003171515.3/)
 
 ## _Ascochyta lentis_
 

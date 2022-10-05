@@ -20,4 +20,7 @@ Most are available in NCBI genbank, but we have also setup a number of online ge
 
 [ _A. lentis_ ](https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/205686/) is a pathogen of lentil.
 
-- Kewell : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394538/jbrowse/index.html), Genbank: Not submitted?
+- Kewell : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394538/jbrowse/index.html?loc=AlKewell_ctg_01), Genbank: Not submitted?
+- Kewell mitogenome : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394661/jbrowse/index.html?loc=AlKewell_mito), Genbank: Not submitted?
+- P9424 : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394707/jbrowse/index.html?loc=P9424_ctg_01), Genbank: Not submitted?
+- P9424 mitogenome : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394768/jbrowse/index.html?loc=P9424_mito), Genbank: Not submitted?

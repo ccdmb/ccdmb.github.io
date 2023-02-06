@@ -21,7 +21,7 @@ Most are available in NCBI genbank, but we have also setup a number of online ge
 [ _A. lentis_ ](https://www.ncbi.nlm.nih.gov/data-hub/taxonomy/205686/) is a hemibiotrophic pathogen of lentil.
 
 - Al4: Genbank: [GCA_004011705.1](https://www.ncbi.nlm.nih.gov/assembly/GCA_004011705.1/)
-- Kewell : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394538/jbrowse/index.html?loc=AlKewell_ctg_01), Genbank: Not submitted?
-- Kewell mitogenome : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394661/jbrowse/index.html?loc=AlKewell_mito), Genbank: Not submitted?
-- P9424 : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394707/jbrowse/index.html?loc=P9424_ctg_01), Genbank: Not submitted?
-- P9424 mitogenome : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394768/jbrowse/index.html?loc=P9424_mito), Genbank: Not submitted?
+- *Al*Kewell : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394538/jbrowse/index.html?loc=AlKewell_ctg_01), Genbank: Not submitted?
+- *Al*Kewell mitogenome : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394661/jbrowse/index.html?loc=AlKewell_mito), Genbank: Not submitted?
+- P94-24 : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394707/jbrowse/index.html?loc=P9424_ctg_01), Genbank: Not submitted?
+- P94-24 mitogenome : [WebApollo](https://pulsepathogens.genome.edu.au/apollo/394768/jbrowse/index.html?loc=P9424_mito), Genbank: Not submitted?

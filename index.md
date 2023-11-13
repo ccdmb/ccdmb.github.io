@@ -20,7 +20,7 @@ may not contain the most recent versions.
 ### Sequencing QC
 
 - [qcflow](https://github.com/ccdmb/qcflow)
--
+- [qcflow-rnaseq](https://github.com/ccdmb/qcflow-rnaseq) - RNAseq pipeline, performing qc, trimming, alignment to genome, and read counts.
 
 
 ### Genome alignment and variant detection
